@@ -1,0 +1,449 @@
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\QLDoanvien.exe.config
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\QLDoanvien.exe
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\QLDoanvien.pdb
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\Bunifu_UI_v1.5.3.dll
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\Bunifu_UI_v1.5.3.xml
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.csprojAssemblyReference.cache
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.exe.config
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.Form1.resources
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.Properties.Resources.resources
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.csproj.GenerateResource.cache
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.csproj.CoreCompileInputs.cache
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.csproj.CopyComplete
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.exe
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.pdb
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Data.v20.1.dll
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Utils.v20.1.dll
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Data.v20.1.xml
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Utils.v20.1.xml
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+G:\Tiểu Luận\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.exe.licenses
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\bin\Debug\DevExpress.XtraBars.v20.1.dll
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\bin\Debug\DevExpress.XtraBars.v20.1.xml
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\obj\Debug\QLDoanvien.FrmMain.resources
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\bin\Debug\DevExpress.Office.v20.1.Core.dll
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\bin\Debug\DevExpress.Office.v20.1.Core.xml
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\obj\Debug\QLDoanvien.FrmTinh.resources
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\obj\Debug\QLDoanvien.FrmKhoa.resources
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\obj\Debug\QLDoanvien.FrmDanToc.resources
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\obj\Debug\QLDoanvien.FrmChiDoan.resources
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\obj\Debug\QLDoanvien.FrmTonGiao.resources
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\obj\Debug\QLDoanvien.FrmChucVu.resources
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\obj\Debug\QLDoanvien.FrmTrDoVH.resources
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\obj\Debug\QLDoanvien.FrmChuyenMon.resources
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\obj\Debug\QLDoanvien.FrmCCAV.resources
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\obj\Debug\QLDoanvien.FrmCCTH.resources
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\obj\Debug\QLDoanvien.FrmNamHoc.resources
+G:\Tiểu Luận\QLDoanVien\QLDoanvien\obj\Debug\QLDoanvien.FrmDoanVien.resources
+S:\Tiểu Luận\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.csproj.AssemblyReference.cache
+S:\Tiểu Luận\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.Form1.resources
+S:\Tiểu Luận\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.FrmCCAV.resources
+S:\Tiểu Luận\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.FrmCCTH.resources
+S:\Tiểu Luận\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.FrmChiDoan.resources
+S:\Tiểu Luận\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.FrmChucVu.resources
+S:\Tiểu Luận\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.FrmChuyenMon.resources
+S:\Tiểu Luận\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.FrmDanToc.resources
+S:\Tiểu Luận\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.FrmDoanVien.resources
+S:\Tiểu Luận\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.FrmKhoa.resources
+S:\Tiểu Luận\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.FrmMain.resources
+S:\Tiểu Luận\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.FrmNamHoc.resources
+S:\Tiểu Luận\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.FrmTinh.resources
+S:\Tiểu Luận\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.FrmTonGiao.resources
+S:\Tiểu Luận\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.FrmTrDoVH.resources
+S:\Tiểu Luận\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.Properties.Resources.resources
+S:\Tiểu Luận\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.csproj.GenerateResource.cache
+S:\Tiểu Luận\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.exe.licenses
+S:\Tiểu Luận\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.csproj.CoreCompileInputs.cache
+S:\Tiểu Luận\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.exe
+S:\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.csproj.AssemblyReference.cache
+S:\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.Form1.resources
+S:\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.FrmCCAV.resources
+S:\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.FrmCCTH.resources
+S:\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.FrmChiDoan.resources
+S:\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.FrmChucVu.resources
+S:\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.FrmChuyenMon.resources
+S:\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.FrmDanToc.resources
+S:\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.FrmKhoa.resources
+S:\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.FrmMain.resources
+S:\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.FrmNamHoc.resources
+S:\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.FrmTinh.resources
+S:\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.FrmTonGiao.resources
+S:\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.FrmTrDoVH.resources
+S:\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.Properties.Resources.resources
+S:\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.csproj.GenerateResource.cache
+S:\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.exe.licenses
+S:\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.csproj.CoreCompileInputs.cache
+S:\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.exe
+S:\QLDoanvien\QLDoanvien\bin\Debug\QLDoanvien.exe.config
+S:\QLDoanvien\QLDoanvien\bin\Debug\QLDoanvien.exe
+S:\QLDoanvien\QLDoanvien\bin\Debug\QLDoanvien.pdb
+S:\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Data.v20.1.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Utils.v20.1.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.XtraBars.v20.1.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\EntityFramework.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\EntityFramework.SqlServer.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Office.v20.1.Core.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+S:\QLDoanvien\QLDoanvien\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+S:\QLDoanvien\QLDoanvien\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+S:\QLDoanvien\QLDoanvien\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+S:\QLDoanvien\QLDoanvien\bin\Debug\Bunifu_UI_v1.5.3.xml
+S:\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+S:\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Data.v20.1.xml
+S:\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+S:\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+S:\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Utils.v20.1.xml
+S:\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.XtraBars.v20.1.xml
+S:\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+S:\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+S:\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+S:\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+S:\QLDoanvien\QLDoanvien\bin\Debug\EntityFramework.xml
+S:\QLDoanvien\QLDoanvien\bin\Debug\EntityFramework.SqlServer.xml
+S:\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+S:\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+S:\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+S:\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+S:\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Office.v20.1.Core.xml
+S:\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+S:\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+S:\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.csproj.CopyComplete
+S:\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.pdb
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\QLDoanvien.exe.config
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\QLDoanvien.exe
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\QLDoanvien.pdb
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\EntityFramework.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\EntityFramework.SqlServer.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\Bunifu_UI_v1.5.3.xml
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Data.v20.1.xml
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Utils.v20.1.xml
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.XtraBars.v20.1.xml
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\EntityFramework.xml
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\EntityFramework.SqlServer.xml
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Office.v20.1.Core.xml
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.csproj.AssemblyReference.cache
+S:\TieuLuan\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.Form1.resources
+S:\TieuLuan\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.FrmCCAV.resources
+S:\TieuLuan\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.FrmCCTH.resources
+S:\TieuLuan\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.FrmChiDoan.resources
+S:\TieuLuan\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.FrmChucVu.resources
+S:\TieuLuan\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.FrmChuyenMon.resources
+S:\TieuLuan\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.FrmDanToc.resources
+S:\TieuLuan\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.FrmKhoa.resources
+S:\TieuLuan\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.FrmMain.resources
+S:\TieuLuan\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.FrmNamHoc.resources
+S:\TieuLuan\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.FrmTinh.resources
+S:\TieuLuan\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.FrmTonGiao.resources
+S:\TieuLuan\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.FrmTrDoVH.resources
+S:\TieuLuan\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.Properties.Resources.resources
+S:\TieuLuan\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.csproj.GenerateResource.cache
+S:\TieuLuan\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.exe.licenses
+S:\TieuLuan\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.csproj.CoreCompileInputs.cache
+S:\TieuLuan\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.csproj.CopyComplete
+S:\TieuLuan\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.exe
+S:\TieuLuan\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.pdb
+S:\TieuLuan\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.FrmDV.resources
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.FrmTaiKhoan.resources
+S:\TieuLuan\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.FrmBCH.resources
+S:\TieuLuan\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.FrmSoDoan.resources
+S:\TieuLuan\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.FrmCTCM.resources
+S:\TieuLuan\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.FrmDoanPhi.resources
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.DataAccess.v20.1.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Xpo.v20.1.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.CodeParser.v20.1.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.XtraPivotGrid.v20.1.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.XtraCharts.v20.1.Extensions.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.PivotGrid.v20.1.Core.xml
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.XtraGauges.v20.1.Core.xml
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.XtraReports.v20.1.xml
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.xml
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.DataAccess.v20.1.xml
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Xpo.v20.1.xml
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.xml
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.XtraPivotGrid.v20.1.xml
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.XtraReports.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.XtraReports.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.XtraReports.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.XtraReports.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.XtraPivotGrid.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.XtraPivotGrid.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.1.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+S:\TieuLuan\QLDoanvien\QLDoanvien\obj\Debug\QLDoanvien.csproj.SuggestedBindingRedirects.cache
